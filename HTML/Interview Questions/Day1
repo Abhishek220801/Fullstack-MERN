@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Interview Questions Day-1</title>
+</head>
+
+<body>
+
+    <h1>Interview Questions Day-1</h1>
+
+    <h3>Q1. Difference between div and span?</h3>
+    <p><i> Div tag</i> - mainly use to create divisions and its a block level element and always starts with new line <br><i>Span tag</i>- Mainly use to
+        merge the row/column and its a inline element and does not alter document flow</p>
+    
+    <h3>Q2. Difference between class and IDs</h3>
+    <p><i>Class</i> is used to define the class for multiple items to group them together for certain purposes <br> <i>ID</i> - it should be unique for all elements and there will exist a single element with that ID in the whole document. </p>
+
+    <h3>Q3. What are self closing tags?</h3>
+    <p> Self Closing tags are those tags which does not need any closing tag to be complete as an element. They are itself the open and closing tags. <br>  For example - < br/>, < input/>, < hr/>, < img/>, etc.</p>
+
+    <h3>Q4. How many types of headings are there? How to decide which to use where?</h3>
+    <p>Mainly we do have 6 types of headings from h1 to h6, on the basis of the importance/size of text lines, we use h1 being the strongest and biggest (most important heading) to h6 being the smallest (also the least important & least used) 
+    </p>
+    <h1>This is an h1 heading</h1>
+    <h2>This is an h2 heading</h2>
+    <h3>This is an h3 heading</h3>
+    <h4>This is an h4 heading</h4>
+    <h5>This is an h5 heading</h5>
+    <h6>This is an h6 heading</h6>
+    
+    <h3>Q5. Difference between Block and Inline elements? </h3>
+    <p><i>Block level elements</i> are elements which take 100% of its width of line and starts with new line always. <br><i>Inline level elements</i> are those elements which take the width of line as per the requirement of text/content and start in same line.</p>
+
+    <h3>Q6. Difference between em and strong?</h3>
+    <p><i>< em></i> is abbreviation for emphasize and is used to provide stress/emphasis on the text or content inside the element and it always in italic.
+        <br><i>< strong></i> is used to denote importance to the text or content inside the element and it is always in bold text.
+    </p>
+
+    <h3>Q7. What are attributes? </h3>
+    <p> HTML attributes provide additional information about elements within an HTML document. Every HTML element can have attributes. <br> for example - style, height, width, src, etc. </p>
+
+
+</body>
+
+</html>
